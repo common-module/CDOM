@@ -1,0 +1,7 @@
+{
+    "CDOM:Event": "./src/Event.js",
+    "CDOM:EventTarget": "./src/EventTarget.js",
+    "CDOM:HTMLDivElement": "./src/HTMLDivElement.js",
+    "CDOM:HTMLElement": "./src/HTMLElement.js",
+    "CDOM:HTMLImageElement": "./src/HTMLImageElement.js"
+}
